@@ -1,18 +1,38 @@
 # Metodologia
 
-## Hard Skill
-* Git / Git Flow / Conventional Commits
+## Tecnologias e Processos
+* [Git](https://github.com/mentoria-unasp/learning-git)  
+  * Overview
+  * Git Flow 
+  * Conventional Commits
 * Webpack
-* JavaScript / TypeScript
-* SCSS / BEM
-* React / Angular
-* Node / PHP
+  * Overview
+* JavaScript
+  * Overview
+  * TypeScript
+* CSS
+  * Overview
+  * SCSS 
+  * BEM
+* Bibliotecas e Frameworks
+  * React 
+  * Angular
+* Back End
+  * Node
+  * PHP
 * SQL
+  * Overview
+  * Integração
 * AWS
+  * EC2
+  * Route53
+  * Bucket S3
 
-## Soft Skill
-* Redes Sociais
+## Mercado de Trabalho
 * Portfólio
+* Projetos
+* Redes Sociais
+* Entrevistas
 
 
 ## Contribuidores ✨
