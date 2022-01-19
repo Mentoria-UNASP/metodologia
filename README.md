@@ -1,28 +1,37 @@
 # Metodologia
+Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas que serão abordados
 
 ## Tecnologias e Processos
 * [Git](https://github.com/mentoria-unasp/learning-git)  
   * Overview
   * Git Flow 
   * Conventional Commits
+  * Open Source
+
 * Webpack
   * Overview
+
 * JavaScript
   * Overview
   * TypeScript
+
 * CSS
   * Overview
   * SCSS 
   * BEM
+
 * Bibliotecas e Frameworks
   * React 
   * Angular
+
 * Back End
   * Node
   * PHP
+
 * SQL
   * Overview
   * Integração
+
 * AWS
   * EC2
   * Route53
@@ -35,7 +44,7 @@
 * Entrevistas
 
 
-## Contribuidores ✨
+## Contribuidores
 
 <table>
   <tr>
