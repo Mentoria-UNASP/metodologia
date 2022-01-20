@@ -35,7 +35,7 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
 * Projetos
 * Redes Sociais
 * Entrevistas
-
+* Open Source
 
 ## Contribuidores
 
