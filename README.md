@@ -6,26 +6,25 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
   * Overview
   * Git Flow 
   * Conventional Commits
-  * Open Source   
-* Webpack
+  * Open Source
+* CSS
   * Overview
+  * SCSS
+  * BEM
 * JavaScript
   * Overview
   * TypeScript
-* CSS
-  * Overview
-  * SCSS 
-  * BEM
-* Bibliotecas e Frameworks
-  * React 
-  * Angular
 * Back End
   * Node
   * PHP
-* SQL
+  * Integração com SQL
+* Webpack
   * Overview
-  * Integração
-* AWS
+* Bibliotecas e Frameworks
+  * React 
+  * Angular
+  * Integração com a API
+* Cloud
   * EC2
   * Route53
   * Bucket S3
@@ -36,6 +35,10 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
 * Redes Sociais
 * Entrevistas
 * Open Source
+
+## Projetos
+* Todo list
+* App de Finanças
 
 ## Contribuidores
 
