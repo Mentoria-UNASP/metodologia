@@ -40,6 +40,12 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
 * Todo list
 * App de Finanças
 
+## Possíveis Convidados
+* Product Owner
+* Gerente de Operações
+* Desenvolvedor Back End
+* Recrutador
+
 ## Contribuidores
 
 <table>
