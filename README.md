@@ -46,6 +46,9 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
 * Desenvolvedor Back End
 * Recrutador
 
+## Links
+* [Grupo no Telegram](https://t.me/+wKdJguaDcmI4YzFh)
+ 
 ## Contribuidores
 
 <table>
